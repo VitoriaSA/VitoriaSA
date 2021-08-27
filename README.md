@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriasa&layout=compact&langs_count=7&theme=tokyonight "/>
 </div>
  
+ <img align="right" alt="gelecao" src="https://i.gifer.com/7GcM.gif">
+ 
  <div> 
   <a href="https://www.youtube.com/channel/UCSH0-xG7uHtz2CPuADGPrnA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bitora.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
