@@ -1,8 +1,10 @@
 # :sparkles: Olá, que bom ver você por aqui!
 
-### :blue_heart: Sobre mim
-Sou a Vitória **"Bitora"** Simões :blossom:<br/>
+### :blue_heart: Sobre mim <img align="right" width="135" alt="cat" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRueDI2Zm5lYzhpNnI3OTN4a2l6NmFsZ3BsZ3dhMHVzdmE5YnYwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" />
+Sou a Vitória **"Bitora"** Simões :blossom: <br/>
 Tenho 25 anos e sou de Guarulhos-SP, formada em **ADS** pelo **IFSP** e estudante de **Licenciatura em informática** :mortar_board:. Sou programadora e construi minha carreira como **Consultora/Desenvolvera ServiceNow**.
+
+
 
 <div>
   <a href="https://www.youtube.com/@bitorasim" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
