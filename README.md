@@ -28,7 +28,7 @@ Tenho 25 anos e sou de Guarulhos-SP, formada em **ADS** pelo **IFSP** e estudant
 <table>
   <tr>
     <td>
-      <img align="center" alt="Bito-SN" height="40" width="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVL6SiiQGvM_6ZmvtBlkX2LfslAnLVK-Mj4w&s"/>
+      <img align="center" alt="Bito-SN" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVL6SiiQGvM_6ZmvtBlkX2LfslAnLVK-Mj4w&s"/>
     </td>
     <td>
       <img align="center" alt="Bito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
