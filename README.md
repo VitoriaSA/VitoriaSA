@@ -25,35 +25,79 @@ Tenho 25 anos e sou de Guarulhos-SP, formada em **ADS** pelo **IFSP** e estudant
 
 ### :blue_heart: Skils
 #### Principais :computer:
-<div style="display: inline_block">
-<img align="center" alt="Bito-SN" height="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVL6SiiQGvM_6ZmvtBlkX2LfslAnLVK-Mj4w&s"/>
-<img align="center" alt="Bito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-<img align="center" alt="Bito-AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
-<img align="center" alt="Bito-HTML" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="center" alt="Bito-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="center" alt="Bito-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-<img align="center" alt="Bito-Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<table>
+  <tr>
+    <td>
+      <img align="center" alt="Bito-SN" height="40" width="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVL6SiiQGvM_6ZmvtBlkX2LfslAnLVK-Mj4w&s"/>
+    </td>
+    <td>
+      <img align="center" alt="Bito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    </td>
+    <td>
+      <img align="center" alt="Bito-AngularJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
+    </td>
+    <td>
+      <img align="center" alt="Bito-HTML" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    </td>
+    <td>
+      <img align="center" alt="Bito-CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    </td>
+    <td>
+      <img align="center" alt="Bito-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+    </td>
+    <td>
+      <img align="center" alt="Bito-Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    </td>
+  </tr>
+</table>
+
 <img align="right" src="https://media.giphy.com/media/Hws7aKoFHS9gs/giphy.gif" width="150"/>
-</div>
+
 
 ##
 #### Conhecimentos :file_folder:
-<div style="display: inline_block">
-<img align="center" alt="Bito-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-<img align="center" alt="Bito-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-<img align="center" alt="Bito-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="center" alt="Bito-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="center" alt="Bito-C++" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="center" alt="Bito-CSharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="center" alt="Bito-DotNet" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="center" alt="Bito-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="center" alt="RBito-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-<img align="center" alt="RBito-JQueryP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-<img align="center" alt="RBito-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="RBito-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img align="center" alt="Bito-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
+    </td>
+    <td>
+      <img align="center" alt="Bito-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+    </td>
+    <td>
+      <img align="center" alt="Bito-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    </td>
+    <td>
+      <img align="center" alt="Bito-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    </td>
+    <td>
+      <img align="center" alt="Bito-C++" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    </td>
+    <td>
+      <img align="center" alt="Bito-CSharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="center" alt="Bito-DotNet" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+    </td>
+    <td>
+      <img align="center" alt="Bito-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    </td>
+    <td>
+      <img align="center" alt="RBito-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
+    </td>
+    <td>
+      <img align="center" alt="RBito-JQueryP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+    </td>
+    <td>
+      <img align="center" alt="RBito-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    </td>
+    <td>
+      <img align="center" alt="RBito-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+    </td>
+  </tr>
+</table>
 
 
 <div> 
